@@ -2,7 +2,7 @@ import os
 import numpy as np
 import tensorflow as tf
 
-from models import NAMAS
+from models import NAMAS   #where is models? I can't find it in your codes.
 from utils import *
 
 from utils import pp
